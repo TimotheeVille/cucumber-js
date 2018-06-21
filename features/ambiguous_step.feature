@@ -1,6 +1,6 @@
 Feature: Ambiguous Steps
 
-  Scenario: Doubidou?
+Scenario:
     Given a file named "features/a.feature" with:
       """
       Feature: a feature name
